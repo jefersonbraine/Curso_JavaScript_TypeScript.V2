@@ -19,5 +19,6 @@ console.log( // Usando constante no nome e na hora junto a interpolação e deix
   `Meu nome é ${nome2}. Estou aprendendo JavaScript às ${hora} da manhã`
 );
 
+a
 
 
